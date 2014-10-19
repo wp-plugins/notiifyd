@@ -26,8 +26,8 @@ Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP i
 
 = About = 
 
-Notiifyd is maintained by [YOOPlugins.com](http://yooplugins.com/) - For support, please [contact us vis email](http://yooplugins.com/support-tickets/)
-4
+Notiifyd is maintained by [YOOPlugins.com](http://yooplugins.com/) - For support, please [Contact us via Email](http://yooplugins.com/support-tickets/)
+
 == Frequently Asked Questions ==
 
 none
