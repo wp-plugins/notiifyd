@@ -14,17 +14,20 @@ Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP i
 == Description == 
 
 Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. Notiifyd is equipped with a color picker for easy background and text coloring as well as a selection of awesome Google fonts - guaranteed to bring life to your notices and get you noticed!  
-  
- 
+
 = Features =
 
-* Choose to display notices in header/footer
-* Choose to display notices on homepage only/all pages
-* Notiifyd is equipped with a colorpicker (easily change notice box background color and notice text color)
-* Notiifyd is equipped with a selection of Google fonts (easily change the notice text font) - 30 fonts included that has minimal impact on page load time
-* Notiifyd allows you to link your notice (internal or external URLs)
-* Users are able to close the notice box at any given time
+	√ Choose to display notices in header or footer
+	√ Choose to display notices on homepage only or all pages
+	√ Notiifyd is equipped with a colorpicker (easily change background and text color)
+	√ Notiifyd is equipped with a selection of Google fonts - 30 fonts included that has minimal impact on page load time
+	√ Notiifyd allows you to link your notice (internal or external URLs)
+	√ Users are able to close the notice box at any given time
 
+= About = 
+
+Notiifyd is maintained by [YOOPlugins.com](http://yooplugins.com/) - For support, please [contact us vis email](http://yooplugins.com/support-tickets/)
+4
 == Frequently Asked Questions ==
 
 none
