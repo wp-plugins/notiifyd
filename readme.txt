@@ -1,6 +1,6 @@
 === Notiifyd ===
 
-Contributors: RS Publishing
+Contributors: RSPublishing
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QBWQ6W8XYWBEJ/
 Tags: notice, notification, notify, notification bar, notice bar, sticky, header, footer, message, sitewide, note, bar
 Requires at least: 3.0
