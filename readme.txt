@@ -1,6 +1,6 @@
 === Notiifyd ===
 
-Contributors: Rynaldo Stoltz
+Contributors: RS Publishing
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QBWQ6W8XYWBEJ/
 Tags: notice, notification, notify, notification bar, notice bar, sticky, header, footer, message, sitewide, note, bar
 Requires at least: 3.0
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description == 
 
-Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. Notiifyd is equipped with a color picker for easy background and text coloring as well as a selection of awesome Google fonts - guaranteed to bring life to your notices and get you noticed!
+Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. 
  
 == Features == 
 
