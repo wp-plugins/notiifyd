@@ -9,11 +9,14 @@ Stable tag:  1.2.1
 License: GPLv2 or Later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. 
+
 == Description == 
 
-Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. 
+Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. Notiifyd is equipped with a color picker for easy background and text coloring as well as a selection of awesome Google fonts - guaranteed to bring life to your notices and get you noticed!  
+  
  
-== Features == 
+= Features =
 
 * Choose to display notices in header/footer
 * Choose to display notices on homepage only/all pages
