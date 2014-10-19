@@ -3,7 +3,7 @@
 /**
   Plugin Name: Notiifyd
   Plugin URI: http://yooplugins.com/
-  Author: RSPublishing|YOOPlugins
+  Author: RSPublishing
   Author URI: http://yooplugins.com/
   Description: Notiifyd allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. Notiifyd is equipped with a color picker for easy background and text coloring as well as a selection of awesome Google fonts - guaranteed to bring life to your notices and get you noticed! See <a href="options-general.php?page=notiifyd">Settings -> Notiifyd Settings</a> to get started.  
   Version: 1.2.1
