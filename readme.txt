@@ -1,4 +1,4 @@
-﻿=== Notiifyd ===
+﻿=== Super Simple Notices ===
 
 Contributors: 		RSPublishing
 Donate link: 		https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QBWQ6W8XYWBEJ
