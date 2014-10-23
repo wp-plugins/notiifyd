@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Notiifyd Plugin from YOOPlugins.com!
+ * Super Simple Notices Plugin from YOOPlugins.com!
  */
 
 ?>

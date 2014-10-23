@@ -2,7 +2,7 @@
 add_action('admin_menu', 'notiifyd_menu');
 
 function notiifyd_menu() {
-	add_options_page('Notiifyd', 'Notiifyd', 'manage_options', 'notiifyd', 'notiifyd_function');
+	add_options_page('Super Simple Notices', 'Super Simple Notices', 'manage_options', 'notiifyd', 'notiifyd_function');
 	add_action( 'admin_init', 'register_notiifyd_settings' );
 }
 
@@ -19,7 +19,7 @@ function register_notiifyd_settings() {
 function notiifyd_function(){ ?>
 
 <div class="wrap">
-<h2>Notiifyd Settings</h2><hr />
+<h2>Super Simple Notices Settings</h2><hr />
 
 <?php
 
@@ -151,7 +151,7 @@ register_uninstall_hook(__FILE__, 'notiifyd_uninstall');
 			add_option('fonts','1');
 		}
 		if(!get_option('text')){
-			add_option('text','Thanks for using Sticky Header');
+			add_option('text','Thanks for using Super Simple Notices');
 		}
 		
 		if(!get_option('link1')){
