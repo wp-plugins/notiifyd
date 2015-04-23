@@ -4,7 +4,7 @@
   Plugin Name: Super Simple Notices
   Plugin URI: http://yooplugins.com/
   Description: Super Simple Notices, as the name suggests - allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. This plugin is equipped with a color picker for easy background and text coloring as well as a selection of awesome Google fonts - guaranteed to bring life to your notices and get you noticed! See <a href="options-general.php?page=notiifyd">Settings -> Super Simple Notices</a> to get started.  
-  Version: 1.2.1
+  Version: 1.3
   Author: RSPublishing
   Author URI: http://yooplugins.com/
   License: GPLv2 or later
@@ -12,7 +12,7 @@
  */
  
 /*
-  Copyright 2014  Rynaldo Stoltz  (email: support@yooplugins.com | web: http://yooplugins.com/)
+  Copyright 2015  Rynaldo Stoltz  (email: rcstoltz@gmail.com | web: http://yooplugins.com/)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -283,7 +283,7 @@ function addNewsInFront() { ?>
             
             <?php } ?>
         </div>
-        <div class="close" align="right"><font size="3">x</font> &nbsp; </div>
+        <div class="close" align="right"><font size="0" >x</font> &nbsp; </div>
     </div>
 		
     <script>

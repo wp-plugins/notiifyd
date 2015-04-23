@@ -125,8 +125,9 @@ function notiifyd_function(){ ?>
 <font color="red">Background Color > </font><i>the notice box background color</i><br />
 <font color="red">Text Color > </font><i>the notice text color</i><br />
 <font color="red">Select Font > </font><i>the notice text font</i><br />
-<font color="red">Notice > </font><i>the notification message (your notice)</i><br />
+<font color="red">Notice > </font><i>the notification message (your notice). HTML is allowed</i><br />
 <font color="red">Link > </font><i>link your notice to another page (internal or external URL)</i><br />
+
 <hr />
 
 <?
