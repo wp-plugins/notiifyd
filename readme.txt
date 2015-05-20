@@ -4,8 +4,8 @@ Contributors: 		RSPublishing
 Donate link: 		https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QBWQ6W8XYWBEJ
 Tags: 			notice, notification, notify, notification bar, notice bar, sticky, header, footer, message, sitewide, note, bar
 Requires at least: 	3.0
-Tested up to: 		4.1.2
-Stable tag:  		1.3
+Tested up to: 		4.2.2
+Stable tag:  		1.4
 License: 			GPLv2 or Later
 License URI: 		http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,7 +34,7 @@ none
 
 == Upgrade Notice ==
 
-= 1.3 =
+= 1.4 =
 
 == Installation ==
 
@@ -66,3 +66,9 @@ Just email us at: rcstoltz@gmail.com / Email Subject : Super Simple Notices
 * changed support email
 * general housekeeping
 * added icons
+
+= 1.4 =
+* tested compatibility with core 4.2.2
+* added banner and icon assets
+* updated version number
+* general housekeeping

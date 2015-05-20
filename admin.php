@@ -119,16 +119,7 @@ function notiifyd_function(){ ?>
 <hr />
 </div>
 
-<h2>Help Section</h2><hr />
-<font color="red">Placement > </font><i>header or footer placement</i><br />
-<font color="red">Where to display > </font><i>global display or homepage display only</i><br />
-<font color="red">Background Color > </font><i>the notice box background color</i><br />
-<font color="red">Text Color > </font><i>the notice text color</i><br />
-<font color="red">Select Font > </font><i>the notice text font</i><br />
-<font color="red">Notice > </font><i>the notification message (your notice). HTML is allowed</i><br />
-<font color="red">Link > </font><i>link your notice to another page (internal or external URL)</i><br />
-
-<hr />
+<p><font color="red">Having problems with your site ? Do you have a WordPress issue/error or task that you need help with ?</font><br /> The <a href="http://wpemergencyroom.com">WP Emergency Room</a> gives you full access to your own personal support team for just about any small WordPress related fixes and tasks.</p><hr />
 
 <?
 

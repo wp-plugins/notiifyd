@@ -3,8 +3,8 @@
 /*
   Plugin Name: Super Simple Notices
   Plugin URI: http://yooplugins.com/
-  Description: Super Simple Notices, as the name suggests - allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. This plugin is equipped with a color picker for easy background and text coloring as well as a selection of awesome Google fonts - guaranteed to bring life to your notices and get you noticed! See <a href="options-general.php?page=notiifyd">Settings -> Super Simple Notices</a> to get started.  
-  Version: 1.3
+  Description: Super Simple Notices allows you to add beautiful, configurable (sticky) notices to your WP installation in seconds. This plugin is equipped with a color picker for easy background and text coloring as well as a selection of awesome Google fonts - guaranteed to bring life to your notices and get you noticed! See <a href="options-general.php?page=notiifyd">Settings -> Super Simple Notices</a> to get started.  
+  Version: 1.4
   Author: RSPublishing
   Author URI: http://yooplugins.com/
   License: GPLv2 or later
